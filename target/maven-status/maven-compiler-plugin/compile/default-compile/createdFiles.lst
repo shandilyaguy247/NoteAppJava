@@ -1,0 +1,3 @@
+com/cisco/noteapp/entity/Note.class
+com/cisco/noteapp/NoteappApplication.class
+com/cisco/noteapp/repository/NoteRepository.class
